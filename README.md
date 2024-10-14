@@ -1,3 +1,3 @@
-# 基于深度学习的新闻情感影响下的人民币汇率预测
-基于深度学习的新闻情感影响下的人民币汇率预测
-在BERT文件夹中，还有两个自然语言处理的文件，但由于文件太大无法上传如需获取，请留言
+Deep Learning-Based RMB Exchange Rate Forecasting Under the Influence of News Sentiment
+RMB exchange rate prediction under the influence of news sentiment based on deep learning
+In the BERT folder, there are two more files for natural language processing, but they are too big to upload. If you need to get them, please leave a message.
